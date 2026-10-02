@@ -1,6 +1,8 @@
 # Oi, eu sou a Yasmin 👋
 
-**Trainee I na Foursys (programa Fourcamp) | Estudante de Engenharia de Software na Gran Faculdades | Apaixonada por Back-end**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vcenter=true&width=500&lines=Estudando+Java+%2B+Mercado+Financeiro!+📈;Desenvolvendo+solu%C3%A7%C3%B5es+para+Back-end+☕" alt="Typing SVG" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yasminmorenomendes" target="_blank">
@@ -15,7 +17,7 @@
 
 ### 🧭 Trajetória
 
-Sou **formada em Direito** e faço pós-graduação em **Direito Corporativo e Compliance**. Agora estou construindo minha carreira em tecnologia, unindo o olhar analítico e a atenção a regras, riscos e processos do Direito com o desenvolvimento de software.
+Sou **formada em Direito** com pós-graduação em **Direito Corporativo e Compliance**. Atualmente, estou em transição de carreira para a tecnologia, aplicando a minha capacidade analítica, visão de processos e gestão de riscos ao desenvolvimento de software back-end e ao mercado financeiro.
 
 ---
 
@@ -34,6 +36,7 @@ Sou **formada em Direito** e faço pós-graduação em **Direito Corporativo e C
 
 - ☕ **Java** (sintaxe, POO e estrutura de dados)
 - ⚙️ **Fundamentos de Back-end**
+- 📈 **Conceitos de Mercado Financeiro & Fintechs**
 
 ---
 
@@ -76,4 +79,3 @@ Crescer como desenvolvedora na Foursys, evoluindo em back-end e contribuindo com
 ### 📫 Contato
 
 - 💼 **LinkedIn:** [yasminmorenomendes](https://www.linkedin.com/in/yasminmorenomendes)
-- LinkedIn: https://www.linkedin.com/in/yasminmorenomendes
