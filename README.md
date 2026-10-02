@@ -7,7 +7,6 @@ Sou formada em **Direito** e faço pós-graduação em **Direito Corporativo e C
 
 ## 🌱 Aprendendo agora
 - Java
-- Engenharia de Software
 - Fundamentos de back-end
 
 ## 🏆 Hackathon Solana: Doações Transparentes
