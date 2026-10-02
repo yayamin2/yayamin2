@@ -29,5 +29,5 @@ Estou no começo da jornada e vou registrar aqui tudo o que for construindo.
 Crescer como desenvolvedora na Foursys, evoluindo em back-end e contribuindo com projetos cada vez maiores.
 
 ## 📫 Contato
-- LinkedIn: (cole seu link aqui)
-- E-mail: (cole seu e-mail aqui)
+- LinkedIn: linkedin.com/in/yasminmorenomendes
+- E-mail: yasminmoreno2603@gmail.com
