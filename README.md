@@ -30,4 +30,3 @@ Crescer como desenvolvedora na Foursys, evoluindo em back-end e contribuindo com
 
 ## 📫 Contato
 - LinkedIn: linkedin.com/in/yasminmorenomendes
-- E-mail: yasminmoreno2603@gmail.com
