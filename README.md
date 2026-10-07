@@ -1,7 +1,11 @@
 # Oi, eu sou a Yasmin 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vcenter=true&width=500&lines=Estudando+Java+%2B+Mercado+Financeiro!+📈;Desenvolvendo+solu%C3%A7%C3%B5es+para+Back-end+☕" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header&text=Java%20%2B%20Mercado%20Financeiro&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vcenter=true&width=500&lines=Estudando+Java+%2B+Mercado+Financeiro!+📈;Desenvolvendo+solu%C3%A7%C3%B5es+para+Back-end+☕;Apaixonada+por+t%C3%AAnis+🎾" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -13,11 +17,13 @@
   </a>
 </p>
 
+Trainee I na **Foursys** (Fourcamp) e estudante de Engenharia de Software na **Gran Faculdades**.
+
 ---
 
 ### 🧭 Trajetória
 
-Sou **formada em Direito** com pós-graduação em **Direito Corporativo e Compliance**. Atualmente, estou em transição de carreira para a tecnologia, aplicando a minha capacidade analítica, visão de processos e gestão de riscos ao desenvolvimento de software back-end e ao mercado financeiro.
+Sou **formada em Direito** com pós-graduação em **Direito Corporativo e Compliance**. Estou em transição de carreira para a tecnologia, com foco em desenvolvimento **back-end para o mercado financeiro e fintechs**, levando comigo a atenção a regras, riscos e processos.
 
 ---
 
@@ -37,6 +43,8 @@ Sou **formada em Direito** com pós-graduação em **Direito Corporativo e Compl
 - ☕ **Java** (sintaxe, POO e estrutura de dados)
 - ⚙️ **Fundamentos de Back-end**
 - 📈 **Conceitos de Mercado Financeiro & Fintechs**
+- 🗂️ **Git e GitHub**
+- 🚀 Próximos: **SQL, Spring Boot e APIs REST**
 
 ---
 
@@ -57,16 +65,23 @@ Em equipe, estou desenvolvendo uma vaquinha online que evita golpes: o dinheiro 
 
 ### 🚀 Projetos
 
-Estou no começo da jornada e vou registrar aqui tudo o que eu for construindo.
+- 📚 [study](https://github.com/yayamin2/study): exercícios e anotações de Java, organizados por assunto
+- 📈 Em breve: calculadora de juros compostos
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yayamin2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayamin2&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yayamin2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayamin2&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
+
+---
+
+### 🎾 Fora do código
+
+Apaixonada por **tênis**. Gosto de jogar e levo pro código o que a quadra ensina: foco, estratégia e paciência.
 
 ---
 
