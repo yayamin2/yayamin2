@@ -104,10 +104,12 @@ Apaixonada por **tênis**. Gosto de jogar e levo pro código o que a quadra ensi
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayamin2&layout=compact&theme=radical&langs_count=6&custom_title=Linguagens%20que%20estou%20estudando" alt="Linguagens que estou estudando" />
 </p>
 
-## 📅 Minha atividade
-<a href="https://github.com/yayamin2">
-  <img src="https://ghchart.rshah.org/yayamin2" alt="Gráfico de contribuições de yayamin2" />
-</a>
+<h4 align="center">📅 Minha Atividade no GitHub</h4>
+<p align="center">
+  <a href="https://github.com/yayamin2">
+    <img src="https://ghchart.rshah.org/FF69B4/yayamin2" alt="Gráfico de contribuições de yayamin2" />
+  </a>
+</p>
 
 </details>
 
