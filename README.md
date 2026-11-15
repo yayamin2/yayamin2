@@ -97,11 +97,12 @@ Apaixonada por **tênis**. Gosto de jogar e levo pro código o que a quadra ensi
 <summary><b>📊 Estatísticas do GitHub</b></summary>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yayamin2&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com?user=yayamin2&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayamin2&layout=compact&theme=radical&langs_count=6&custom_title=Linguagens%20que%20estou%20estudando" alt="Linguagens que estou estudando" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yayamin2&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yayamin2&theme=radical" alt="Resumo do GitHub" />
 </p>
 
 <h4 align="center">📅 Minha Atividade no GitHub</h4>
@@ -112,8 +113,6 @@ Apaixonada por **tênis**. Gosto de jogar e levo pro código o que a quadra ensi
 </p>
 
 </details>
-
----
 
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/yasminmorenomendes">Vamos conversar no LinkedIn</a>
