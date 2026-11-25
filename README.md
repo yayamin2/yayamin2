@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vcenter=true&width=520&lines=Oi%2C+eu+sou+a+Yasmin!+👋;Estudando+Java+%2B+Mercado+Financeiro+📈;Desenvolvendo+soluções+para+Back-end+💻;Apaixonada+por+tênis+🎾" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vcenter=true&width=520&lines=Oi%2C+eu+sou+a+Yasmin!;Estudando+Java+%2B+Mercado+Financeiro+📈;Desenvolvendo+soluções+para+Back-end+💻;Apaixonada+por+tênis+🎾" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,72 +19,85 @@
 </p>
 
 <p align="center">
-  Trainee I na <b>Foursys</b> (Fourcamp) e estudante de Engenharia de Software na <b>Gran Faculdades</b>.<br>
-  Meu foco atual é Java no bootcamp, com o objetivo de crescer como desenvolvedora back-end.
+  Trainee I na <b>Foursys</b> (Fourcamp) e estudante de Engenharia de Software na <b>Gran Faculdade</b>.<br>
+  Meu objetivo: crescer como desenvolvedora back-end, evoluindo e contribuindo com projetos cada vez maiores.
 </p>
 
 ---
 
-### 🧭 Trajetória
+### Trajetória
 
 Sou **formada em Direito**, com pós-graduação em **Direito Corporativo e Compliance**. Estou em transição de carreira para a tecnologia, com foco em **back-end para o mercado financeiro e fintechs**, levando comigo a atenção a regras, riscos e processos.
 
 ---
 
-### 🛠️ Foco atual
+### Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-Estudando sintaxe, orientação a objetos e estruturas de dados em Java durante o bootcamp.
+**Próximos passos:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST" />
+</p>
 
 ---
 
-### 🌱 Estudos complementares
+### Aprendendo agora
 
-Além do foco em Java, estou praticando lógica com Python no curso e explorando HTML, CSS e JavaScript no projeto Pomodoro.
-
----
-
-### 🚀 Projetos
-
-| Projeto | O que é |
-|---------|---------|
-| 📈 [**SimuladorFinanceiro**](https://github.com/yayamin2/SimuladorFinanceiro) | Simulador de renda fixa no terminal, feito em Java: juros compostos com aportes mensais, comparativo com juros simples e IR pela tabela regressiva |
-| 📚 [**study**](https://github.com/yayamin2/study) | Exercícios e anotações de Java, organizados por assunto (condicionais, repetição, arrays, matrizes) |
-| 🍅 [**pomodoro**](https://github.com/yayamin2/pomodoro) | Aplicação web de Pomodoro com tema de Nova York, criada como projeto de prática em desenvolvimento web |
-| 🧠 [**logica-programacao**](https://github.com/yayamin2/logica-programacao) | Exercícios iniciais de lógica de programação em Python |
+- **Java:** sintaxe, POO e estrutura de dados
+- **Fundamentos de back-end**
+- **Mercado financeiro e fintechs**
+- **Git e GitHub**
 
 ---
 
-### 🏆 Hackathon Solana: Doações Transparentes
+### Projetos
+
+| Projeto | O que é | Tecnologias |
+|---------|---------|-------------|
+| 🏦 [**SistemaBancario**](https://github.com/yayamin2/SistemaBancario) *(em andamento)* | Simulador bancário no terminal com autenticação por senha, troca de contas, transferências, depósitos, saques e extrato cronológico via `LinkedList` | `Java` |
+| 📈 [**SimuladorFinanceiro**](https://github.com/yayamin2/SimuladorFinanceiro) *(em andamento)*| Simulador de renda fixa no terminal: juros compostos com aportes mensais, comparativo com juros simples e cálculo de IR pela tabela regressiva | `Java` |
+| 📚 [**study**](https://github.com/yayamin2/study) *(em andamento)* | Exercícios e anotações de estudo organizados por assunto (condicionais, repetição, arrays e matrizes) | `Java` |
+| 🍅 [**pomodoro**](https://github.com/yayamin2/pomodoro) *(em andamento)* | Aplicação web com tema de Nova York para organizar a rotina de estudos | `HTML` `CSS` `JavaScript` |
+| 🧠 [**logica-programacao**](https://github.com/yayamin2/logica-programacao) *(em andamento)* | Exercícios práticos de lógica de programação da trilha Rocketseat | `Python` |
+
+---
+
+### Hackathon Solana: Doações Transparentes
 
 Em equipe, desenvolvendo uma **vaquinha online que evita golpes**: o dinheiro fica em conta segregada e só é liberado contra comprovação de gastos, com registro público de entradas e saídas.
 
-**Meu papel:** parte jurídica e de compliance. *Status: 🛠️ em desenvolvimento*
+**Meu papel:** parte jurídica e de compliance. *Status: em desenvolvimento*
 
 <details>
 <summary><b>Ver o que estou elaborando</b></summary>
 
-- 📜 Mapa regulatório e análise de previsões (Banco Central, CVM, CDC, Marco Civil)
-- 🔒 Matriz de proteção de dados (LGPD) e desenho do registro em blockchain sem dados pessoais
-- 📝 Minutas de Termos de Uso, Política de Privacidade e textos de consentimento
-- ⚖️ Procedimento de suspensão, congelamento e devolução
-- 📊 Matriz de riscos e material jurídico do pitch
+- Mapa regulatório e análise de normas aplicáveis (Banco Central, CVM, CDC, Marco Civil)
+- Matriz de proteção de dados (LGPD) e desenho do registro em blockchain sem dados pessoais
+- Minutas de Termos de Uso, Política de Privacidade e textos de consentimento
+- Procedimento de suspensão, congelamento e devolução
+- Matriz de riscos e material jurídico do pitch
 
 </details>
 
 ---
 
-### 🎾 Fora do código
+### Fora do código
 
-Apaixonada por **tênis**. Gosto de jogar e levo pro código o que a quadra ensina: foco, estratégia e paciência.
+Apaixonada por **tênis**. Gosto de jogar e levo para o código o que a quadra ensina: foco, estratégia e paciência.
 
 ---
 
 <details>
-<summary><b>📊 Estatísticas do GitHub</b></summary>
+<summary><b>Estatísticas do GitHub</b></summary>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yayamin2&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="Sequência de contribuições" />
@@ -95,12 +108,13 @@ Apaixonada por **tênis**. Gosto de jogar e levo pro código o que a quadra ensi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yayamin2&theme=radical" alt="Resumo do GitHub" />
 </p>
 
-<h4 align="center">📅 Minha Atividade no GitHub</h4>
+<h4 align="center">Minha Atividade no GitHub</h4>
 <p align="center">
   <a href="https://github.com/yayamin2">
     <img src="https://ghchart.rshah.org/FF69B4/yayamin2" alt="Gráfico de contribuições de yayamin2" />
   </a>
 </p>
+
 
 </details>
 
