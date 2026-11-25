@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=header&text=Yasmin%20Moreno%20Mendes&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Java%20%2B%20Mercado%20Financeiro&descSize=18&descAlignY=65" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=header&text=Yasmin%20Moreno%20Mendes&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Java%20%2B%20Python%20%2B%20Desenvolvimento%20Web&descSize=18&descAlignY=65" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vcenter=true&width=520&lines=Oi%2C+eu+sou+a+Yasmin!+👋;Estudando+Java+%2B+Mercado+Financeiro+📈;Desenvolvendo+soluções+para+Back-end+💻;Apaixonada+por+tênis+🎾" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vcenter=true&width=520&lines=Oi%2C+eu+sou+a+Yasmin!+👋;Estudando+Java+e+Python+📚;Criando+projetos+com+HTML%2C+CSS+e+JavaScript+💻;Apaixonada+por+tênis+🎾" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,13 +31,16 @@ Sou **formada em Direito**, com pós-graduação em **Direito Corporativo e Comp
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias em estudo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 **🔜 Próximos passos:**
@@ -53,8 +56,9 @@ Sou **formada em Direito**, com pós-graduação em **Direito Corporativo e Comp
 ### 🌱 Aprendendo agora
 
 - ☕ **Java:** sintaxe, POO e estrutura de dados
-- ⚙️ **Fundamentos de back-end**
-- 📈 **Mercado financeiro e fintechs**
+- 🐍 **Python:** lógica de programação e resolução de exercícios
+- 🌐 **HTML, CSS e JavaScript:** praticando no projeto Pomodoro
+- ⚙️ **Fundamentos de back-end** e mercado financeiro
 - 🗂️ **Git e GitHub**
 
 ---
@@ -63,8 +67,10 @@ Sou **formada em Direito**, com pós-graduação em **Direito Corporativo e Comp
 
 | Projeto | O que é |
 |---------|---------|
-| 📈 [**SimuladorFinanceiro**](https://github.com/yayamin2/SimuladorFinanceiro) | Simulador de renda fixa no terminal: juros compostos com aportes mensais, comparativo com juros simples e IR pela tabela regressiva |
+| 📈 [**SimuladorFinanceiro**](https://github.com/yayamin2/SimuladorFinanceiro) | Simulador de renda fixa no terminal, feito em Java: juros compostos com aportes mensais, comparativo com juros simples e IR pela tabela regressiva |
 | 📚 [**study**](https://github.com/yayamin2/study) | Exercícios e anotações de Java, organizados por assunto (condicionais, repetição, arrays, matrizes) |
+| 🍅 [**pomodoro**](https://github.com/yayamin2/pomodoro) | Aplicação web de Pomodoro com tema de Nova York, criada para praticar HTML, CSS e JavaScript |
+| 🧠 [**logica-programacao**](https://github.com/yayamin2/logica-programacao) | Exercícios iniciais de lógica de programação em Python |
 
 ---
 
