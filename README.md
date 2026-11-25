@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=header&text=Yasmin%20Moreno%20Mendes&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Java%20%7C%20Back-end&descSize=18&descAlignY=65" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=header&text=Yasmin%20Moreno%20Mendes&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Java%20%2B%20Mercado%20Financeiro&descSize=18&descAlignY=65" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vcenter=true&width=520&lines=Oi%2C+eu+sou+a+Yasmin!+👋;Trainee+em+desenvolvimento+com+foco+em+Java+☕;Estudando+Back-end+💻;Apaixonada+por+tênis+🎾" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vcenter=true&width=520&lines=Oi%2C+eu+sou+a+Yasmin!+👋;Estudando+Java+%2B+Mercado+Financeiro+📈;Desenvolvendo+soluções+para+Back-end+💻;Apaixonada+por+tênis+🎾" alt="Typing SVG" />
 </p>
 
 <p align="center">
